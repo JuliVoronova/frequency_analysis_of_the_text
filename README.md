@@ -1,2 +1,1 @@
-
-I analyzed why GhatGPT receives such contradictory reviews and which factors are the most significant. What is missing and what people like.
+В этом проекте я провела анализ текстовых данных (выгрузка отзывов пользователей о ChatGPT с AppStore) с использованием методов частотного анализа, чтобы проиллюстрировать распределение слов и выражений, разобраться на основании чего пользователи ставят оценки, понять, что служит причиной недовольства, выявить тонкие границы между категориями.
